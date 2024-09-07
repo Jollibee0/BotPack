@@ -123,6 +123,16 @@ module.exports.run = async function ({ api, event, args, getText }) {
         "❽",
         "❾",
         "❿",
+	"⓫",
+	"⓬",
+	"⓭",
+	"⓮",
+	"⓯",
+	"⓰",
+	"⓱",
+	"⓲",
+	"⓳",
+	"⓴",
       ];
       msg += `╭[ ${numberFont[i]} ]─❍ ${
         category.charAt(0).toUpperCase() + category.slice(1)
